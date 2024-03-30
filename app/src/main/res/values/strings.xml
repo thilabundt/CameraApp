@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyCamera_lab5</string>
+    <string name="image_view">simple image</string>
+    <string name="capture_image">image</string>
+</resources>
